@@ -89,4 +89,4 @@ await  ctx.send(row1 + row2 + row3 + row4 + row5)
 
 
 
-bot.run("token here")
+bot.run("MTIyODQ0NzMxMTYyMjA0OTg1NA.G-6-Az.ysNSPrzYM24nqT-RSj3Bq4iwXpFJcf5vdEQfoE")
